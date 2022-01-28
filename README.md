@@ -1,4 +1,6 @@
 # Units view count
+![build](https://github.com/PoliOwl/UnitsViewCount/actions/workflows/build.yml/badge.svg)
+
 This is a test project for a job interview. 
 
 The task is: there is a 2D plane with units on it. Units can see at a certain distance and in a certain sector, the program has to calculate for each unit how many other units can it see.
